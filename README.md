@@ -21,6 +21,7 @@ O projeto tem um layout simples e intuitivo para facilitar a experiência do usu
 Este projeto é de código aberto e pode ser utilizado livremente.  
 
 ### ➡️ Como acessar
+https://challenge-amigo-secreto-chi-wine.vercel.app/
 
 
 
